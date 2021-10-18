@@ -1,6 +1,8 @@
-# GuiasDSP
-Guias de la materia de DPS LAB 04L
+# Sobre Guia 7 DPS
+Esta guia se realizo en snack a continuacion se colocan los link del procedimiento y del analisis de resultado
 
-* Cada rama representa una guia y este solo reprositorio estara destinado para subir todas esas guia
-* Alumno: Cristian Odir Lopez Revelo LR161911
-* Profesor:Alexander Campos
+* PROCEDIMIENTO DE LA GUIA
+https://snack.expo.dev/@cristianrevelo98/guia7
+* ANALISIS DE RESULTADO
+https://snack.expo.dev/@cristianrevelo98/guia7analisis
+
